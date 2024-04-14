@@ -30,10 +30,10 @@ https://www.intel.com/content/www/us/en/collections/products/fpga/software/downl
 Pełna dokumentacja projektu znajduje się w pliku Dokumentacja_Projektu.pdf.
 
 # Schemat główny MikroProcesora:
-![Tekst zastępczy dla cpu](cpu.png)
+![Zdjęcie przedstawia schemat główny MikroProcesora](cpu.png)
 
-# Schemat modułu branku rejestrów:
-![Tekst zastępczy dla bank_rejestrow1](bank_rejestrow1.png)
+# Schemat modułu banku rejestrów:
+![Zdjęcie przedstawia schemat modułu banku rejestrów](bank_rejestrow1.png)
 
 # Schemad modułu ALU:
-![Tekst zastępczy dla alu](alu.png)
+![Zdjęcie przedstawia schemat modułu ALU](alu.png)
